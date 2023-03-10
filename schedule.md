@@ -14,37 +14,39 @@ This class is logically divided into units to be completed over a seven-week tim
 |  **Name** | **Start Date** | **Due Date** | **Points** |
 | --- | --- | --- | ---  |
 |  **![open source](./media/open-source-32.png) Module 0: Introduction and Open Source** |  |  |  |
-|  0-0 GitHub Hello | 10/13 | 10/20 | 10 |
-|  0-1 Open Source Discovery | 10/13 | 10/20 | 20 |
+|  [0-0 GitHub Hello](https://classroom.github.com/a/bIDfU6rH) | 3/14 |  | 50 |
+|  [0-1 Open Source Discovery](https://classroom.github.com/a/YLdN4FDt) | 3/14 |  | 50 |
 |  **![git](./media/git-32.png) Module 1: Git and SCM** |  |  |  |
-|  1-0 GitHub Branch | 10/13 | 10/20 | 20 |
-|  1-1 GitHub Desktop | 10/13 | 10/20 | 10 |
+|  [1-0 GitHub Branch](https://classroom.github.com/a/GL7PnvKa) | 3/14 |  | 50 |
+|  [1-1 GitHub Desktop](https://classroom.github.com/a/AQI6lR3W) | 3/14 |  | 50 |
 |  **![qgis](./media/qgis-32.png) Module 2: QGIS** |  |  |  |
-|  2-0 QGIS Tutorials (Intro) | 10/18 | 10/25 | 30 |
-|  2-1 QGIS Tutorials (Intermediate) | 10/18 |  10/25 | 30 |
-|  2-2 QGIS Tutorials (Advanced) | 10/18 | 10/25 | 30 |
-|  2-3 QGIS Hurricane | 10/18 |  10/25 | 40 |
-|  2-4 QGIS Secret Mutant Hero Team | 10/18 | 10/25 | 40 |
+|  2-0 QGIS Tutorials (Intro) | 3/16 | | 50 |
+|  2-1 QGIS Tutorials (Intermediate) | 3/16 |  | 50 |
+|  2-2 QGIS Tutorials (Advanced) | 3/16 | | 50 |
+|  2-3 QGIS Hurricane | 3/21 | | 50 |
+|  2-4 QGIS Secret Mutant Hero Team | 3/21 | | 50 |
 |  **![python](./media/python-32.png) Module 3: Python** |  |  |  |
-|  3-0 Codespace Intro | 10/25 | 11/1 | 10 |
-|  3-1 Python Pandas | 10/25 | 11/1 | 40 |
-|  3-2 Python GeoPandas Intro | 10/25 | 11/1 | 40 |
-|  3-3 Python GeoPandas Join |10/25 | 11/1 | 40 |
-|  3-4 Python Rasterio | 10/25 | 11/8 | 40 |
+|  3-0 Codespace Intro | 3/23 | | 20 |
+|  3-1 Python Pandas | 3/23 | | 50 |
+|  3-2 Python GeoPandas Intro | 3/23 |  | 50 |
+|  3-3 Python GeoPandas Join | 3/28 |  | 50 |
+|  3-4 Python Rasterio | 3/30 | | 50 |
 |  **![docker](./media/docker-32.png) Module 4: Docker** |  |  |  |
-|  4-0 Docker | 11/8 | 11/15 | 60 |
+|  4-0 Docker | 4/4 |  | 50 |
 |  **![postgis](./media/postgis-32.png) Module 5: PostGIS** |  |  |  |
-|  5-0 PostGIS Intro | 11/8 |11/15 | 40 |
-|  5-1 PostGIS OSM Load | 11/8 | 11/15 | 40 |
+|  5-0 PostGIS Intro | 4/4 | | 50 |
+|  5-1 PostGIS OSM Load | 4/6 | | 50 |
 |  **![geoserver](./media/geoserver-32.png) Module 6: Geoserver** |  |  |  |
-|  6-0 Geoserver Intro | 11/15| 11/22 | 40 |
-|  6-1 Geoserver OSM I | 11/15 | 11/22 | 40 |
-|  6-2 Geoserver OSM II | 11/15 | 11/22 | 40 |
+|  6-0 Geoserver Intro | 4/11 | | 50 |
+|  6-1 Geoserver OSM I | 4/13 | | 50 |
+|  6-2 Geoserver OSM II | 4/19 | | 50 |
 |  **![leaflet](./media/leaflet-32.png) Module 7: WebGIS** |  |  |  |
-|  7-0 WebGIS - Leaflet I |  | | 40 |
-|  7-1 WebGIS - Leaflet II |  | | 40 |
+|  7-0 WebGIS - Leaflet I | 4/21 | | 50 |
+|  7-1 WebGIS - Leaflet II | 4/26 | | 50 |
 |  **![leaflet](./media/leaflet-32.png) Module 8: GDAL/OGR** |  |  |  |
-|  8-0 GDAL/OGR - GDAL/OGR |  | | 40 |
+|  8-0 GDAL/OGR - GDAL/OGR | 4/28 | | 50 |
+|  **![guest](./media/guest-32.png) Module 9: Mystery** |  |  |  |
+|  9-0 TBD | 5/3 | | 50 |
 
 ## Official Dates
 See https://www.registrar.arizona.edu/dates-and-deadlines
