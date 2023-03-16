@@ -9,11 +9,12 @@ This class is logically divided into units to be completed over a seven-week tim
 
 ### Live lecture link: [Zoom](https://arizona.zoom.us/j/86553203317)
 
-### [Piazza]([https://piazza.com/class/l96iahse4la2gu](https://piazza.com/class/lf30l5i7eb755w))
+### [Piazza](https://piazza.com/class/lf30l5i7eb755w)
 
 |  **Name** | **Start Date** | **Due Date** | **Points** |
 | --- | --- | --- | ---  |
 |  **![open source](./media/open-source-32.png) Module 0: Introduction and Open Source** |  |  |  |
+| ![zoom icon](./media/play-icon.png) [Lecture 3/14](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=948dd654-4e1d-4ae5-83be-afc6007e680e) | | | |
 |  [0-0 GitHub Hello](https://classroom.github.com/a/bIDfU6rH) | 3/14 |  | 50 |
 |  [0-1 Open Source Discovery](https://classroom.github.com/a/YLdN4FDt) | 3/14 |  | 50 |
 |  **![git](./media/git-32.png) Module 1: Git and SCM** |  |  |  |
