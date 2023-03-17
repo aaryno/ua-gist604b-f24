@@ -1,12 +1,10 @@
 # GIST 604B 
 ## Open Source Geographic Information Systems
 ## University of Arizona
-## October 14, 2021, to December 8, 2021
 
 ### Instructor: Dr. Aaryn Olsson 
 ### Email: aaryn@email.arizona.edu
 ### Availability by email and through slack
-### Live Lecture: [https://arizona.zoom.us/j/85422983004](https://arizona.zoom.us/j/85422983004)
 
 ## Course Description
 In this course you will learn about the open source software paradigm including how open source software is developed, released, and maintained. You will be introduced to three core open source GIS software technologies: QGIS, PostGIS, Geoserver, and OpenLayers
@@ -30,10 +28,6 @@ You will be able to create a webpage containing interactive GIS maps that allow 
 Interactive participation through Slack and Zoom are encouraged but not graded. You will get more out of the class and your career by engaging your colleagues. 
 
 As it is a course about Open Source, we will emphasize the open source tools or practices where possible. Course content will be delivered through GitHub some course content will be available through d2l.
-
-## Slack
-[Slack](https://slack.com/) is an online collaboration hub through which we will maintain ongoing chats and interactions
-about the class. The `MS-GIST` Slack workspace has a channel, `#604b-osgeo` to facilitate online communication.
 
 ## GitHub
 [GitHub](https://github.com) is a cloud-based code repository and collaborative development suite. You will need to create
