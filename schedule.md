@@ -21,11 +21,11 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [1-0 GitHub Branch](https://classroom.github.com/a/GL7PnvKa) | 3/14 |  | 50 |
 |  [1-1 GitHub Desktop](https://classroom.github.com/a/AQI6lR3W) | 3/14 |  | 50 |
 |  **![qgis](./media/qgis-32.png) Module 2: QGIS** |  |  |  |
-|  2-0 QGIS Tutorials (Intro) | 3/16 | | 50 |
-|  2-1 QGIS Tutorials (Intermediate) | 3/16 |  | 50 |
-|  2-2 QGIS Tutorials (Advanced) | 3/16 | | 50 |
-|  2-3 QGIS Hurricane | 3/21 | | 50 |
-|  2-4 QGIS Secret Mutant Hero Team | 3/21 | | 50 |
+|  [2-0 QGIS Tutorials (Intro)](https://classroom.github.com/a/fq8fgSyf) | 3/16 | | 50 |
+|  [2-1 QGIS Tutorials (Intermediate)](https://classroom.github.com/a/BTTJp1Jy) | 3/16 |  | 50 |
+|  [2-2 QGIS Tutorials (Advanced)](https://classroom.github.com/a/yCWMVvXf) | 3/16 | | 50 |
+|  [2-3 QGIS Hurricane](https://classroom.github.com/a/KkpH1T9V) | 3/21 | | 50 |
+|  [2-4 QGIS Secret Mutant Hero Team](https://classroom.github.com/a/5rJCgPls) | 3/21 | | 50 |
 |  **![python](./media/python-32.png) Module 3: Python** |  |  |  |
 |  3-0 Codespace Intro | 3/23 | | 20 |
 |  3-1 Python Pandas | 3/23 | | 50 |
