@@ -7,7 +7,7 @@ This class is logically divided into units to be completed over a seven-week tim
 - Class begins: March 14, 2023
 - Last day of classes:  May 3, 2023
 
-### Live lecture link: [Zoom](hhttps://arizona.zoom.us/j/86790732262)
+### Live lecture link: [Zoom](https://arizona.zoom.us/j/86790732262)
 
 ### [Piazza](https://piazza.com/class/lf30l5i7eb755w)
 
