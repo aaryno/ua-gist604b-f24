@@ -3,7 +3,7 @@
 
 This class is logically divided into units to be completed over a seven-week time frame. All homework is due exactly one week after it is assigned. Note that the class builds on itself and content from early modules will be used in later modules.
 
-### Key Dates (see https://catalog.arizona.edu/fall-2022-semester)
+### Key Dates (see https://catalog.arizona.edu/spring-2023-semester)
 - Class begins: March 14, 2023
 - Last day of classes:  May 3, 2023
 
