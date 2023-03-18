@@ -21,6 +21,7 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [1-0 GitHub Branch](https://classroom.github.com/a/GL7PnvKa) | 3/14 |  | 50 |
 |  [1-1 GitHub Desktop](https://classroom.github.com/a/AQI6lR3W) | 3/14 |  | 50 |
 |  **![qgis](./media/qgis-32.png) Module 2: QGIS** |  |  |  |
+| ![zoom icon](./media/play-icon.png) [Lecture 3/16](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e15ca799-9d32-4e94-afd0-afc80047e518) | | | |
 |  [2-0 QGIS Tutorials (Intro)](https://classroom.github.com/a/fq8fgSyf) | 3/16 | | 50 |
 |  [2-1 QGIS Tutorials (Intermediate)](https://classroom.github.com/a/BTTJp1Jy) | 3/16 |  | 50 |
 |  [2-2 QGIS Tutorials (Advanced)](https://classroom.github.com/a/yCWMVvXf) | 3/16 | | 50 |
