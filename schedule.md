@@ -25,6 +25,7 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [2-0 QGIS Tutorials (Intro)](https://classroom.github.com/a/fq8fgSyf) | 3/16 | | 50 |
 |  [2-1 QGIS Tutorials (Intermediate)](https://classroom.github.com/a/BTTJp1Jy) | 3/16 |  | 50 |
 |  [2-2 QGIS Tutorials (Advanced)](https://classroom.github.com/a/yCWMVvXf) | 3/16 | | 50 |
+| ![zoom icon](./media/play-icon.png) [Lecture 3/18](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0f31d1d5-b8c5-4821-8074-afcd003af2f6) | | | |
 |  [2-3 QGIS Hurricane](https://classroom.github.com/a/KkpH1T9V) | 3/21 | | 50 |
 |  [2-4 QGIS Secret Mutant Hero Team](https://classroom.github.com/a/5rJCgPls) | 3/21 | | 50 |
 |  **![python](./media/python-32.png) Module 3: Python** |  |  |  |
