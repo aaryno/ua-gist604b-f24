@@ -29,9 +29,9 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [2-3 QGIS Hurricane](https://classroom.github.com/a/KkpH1T9V) | 3/21 | | 50 |
 |  [2-4 QGIS Secret Mutant Hero Team](https://classroom.github.com/a/5rJCgPls) | 3/21 | | 50 |
 |  **![python](./media/python-32.png) Module 3: Python** |  |  |  |
-|  3-0 Codespace Intro | 3/23 | | 20 |
-|  3-1 Python Pandas | 3/23 | | 50 |
-|  3-2 Python GeoPandas Intro | 3/23 |  | 50 |
+|  [3-0 Codespace Intro](https://classroom.github.com/a/7dD6fUOj) | 3/23 | | 20 |
+|  [3-1 Python Pandas](https://classroom.github.com/a/WCmy-rq9) | 3/23 | | 50 |
+|  [3-2 Python GeoPandas Intro](https://classroom.github.com/a/bnnz6IYQ) | 3/23 |  | 50 |
 |  3-3 Python GeoPandas Join | 3/28 |  | 50 |
 |  3-4 Python Rasterio | 3/30 | | 50 |
 |  **![docker](./media/docker-32.png) Module 4: Docker** |  |  |  |
