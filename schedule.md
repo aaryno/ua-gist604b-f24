@@ -29,6 +29,7 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [2-3 QGIS Hurricane](https://classroom.github.com/a/KkpH1T9V) | 3/21 | | 50 |
 |  [2-4 QGIS Secret Mutant Hero Team](https://classroom.github.com/a/5rJCgPls) | 3/21 | | 50 |
 |  **![python](./media/python-32.png) Module 3: Python** |  |  |  |
+|  ![zoom icon](media/play-icon.png) _[Lecture from the Archive (Intro to Python)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=83304fba-424f-430f-87e1-adcc00448e6e)_ |  |  |  |
 |  [3-0 Codespace Intro](https://classroom.github.com/a/7dD6fUOj) | 3/23 | | 20 |
 |  [3-1 Python Pandas](https://classroom.github.com/a/WCmy-rq9) | 3/23 | | 50 |
 |  [3-2 Python GeoPandas Intro](https://classroom.github.com/a/bnnz6IYQ) | 3/23 |  | 50 |
