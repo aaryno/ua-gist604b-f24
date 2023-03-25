@@ -37,7 +37,7 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [3-3 Python GeoPandas Join](https://classroom.github.com/a/VSnXZvpY) | 3/28 |  | 50 |
 |  [3-4 Python Rasterio](https://classroom.github.com/a/hRhGtxJM) | 3/30 | | 50 |
 |  **![docker](./media/docker-32.png) Module 4: Docker** |  |  |  |
-|  4-0 Docker | 4/4 |  | 50 |
+|  [4-0 Docker](https://classroom.github.com/a/StWSrqES) | 4/4 |  | 50 |
 |  **![postgis](./media/postgis-32.png) Module 5: PostGIS** |  |  |  |
 |  5-0 PostGIS Intro | 4/4 | | 50 |
 |  5-1 PostGIS OSM Load | 4/6 | | 50 |
