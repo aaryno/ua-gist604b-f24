@@ -34,8 +34,8 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [3-0 Codespace Intro](https://classroom.github.com/a/7dD6fUOj) | 3/23 | | 20 |
 |  [3-1 Python Pandas](https://classroom.github.com/a/WCmy-rq9) | 3/23 | | 50 |
 |  [3-2 Python GeoPandas Intro](https://classroom.github.com/a/bnnz6IYQ) | 3/23 |  | 50 |
-|  3-3 Python GeoPandas Join | 3/28 |  | 50 |
-|  3-4 Python Rasterio | 3/30 | | 50 |
+|  [3-3 Python GeoPandas Join](https://classroom.github.com/a/VSnXZvpY) | 3/28 |  | 50 |
+|  [3-4 Python Rasterio](https://classroom.github.com/a/hRhGtxJM) | 3/30 | | 50 |
 |  **![docker](./media/docker-32.png) Module 4: Docker** |  |  |  |
 |  4-0 Docker | 4/4 |  | 50 |
 |  **![postgis](./media/postgis-32.png) Module 5: PostGIS** |  |  |  |
