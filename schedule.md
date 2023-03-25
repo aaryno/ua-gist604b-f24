@@ -46,9 +46,9 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [6-1 Geoserver OSM I](https://classroom.github.com/a/_sk30DaM) | 4/13 | | 50 |
 |  [6-2 Geoserver OSM II](https://classroom.github.com/a/bG0RBYLh) | 4/19 | | 50 |
 |  **![leaflet](./media/leaflet-32.png) Module 7: WebGIS** |  |  |  |
-|  7-0 WebGIS - Leaflet I | 4/21 | | 50 |
+|  [7-0 WebGIS - Leaflet I](https://classroom.github.com/a/Gz5nXZ73) | 4/21 | | 50 |
 |  7-1 WebGIS - Leaflet II | 4/26 | | 50 |
-|  **![leaflet](./media/gdal-32.png) Module 8: GDAL/OGR** |  |  |  |
+|  **![gdal/ogr](./media/gdal-32.png) Module 8: GDAL/OGR** |  |  |  |
 |  8-0 GDAL/OGR - GDAL/OGR | 4/28 | | 50 |
 |  **![guest](./media/question-32.png) Module 9: Mystery** |  |  |  |
 |  9-0 TBD | 5/3 | | 50 |
