@@ -34,7 +34,7 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [3-0 Codespace Intro](https://classroom.github.com/a/7dD6fUOj) | 3/23 | | 20 |
 |  [3-1 Python Pandas](https://classroom.github.com/a/WCmy-rq9) | 3/23 | | 50 |
 |  [3-2 Python GeoPandas Intro](https://classroom.github.com/a/bnnz6IYQ) | 3/23 |  | 50 |
-| ![zoom icon](./media/play-icon.png) Lecture 3/28 | | | |
+| ![zoom icon](./media/play-icon.png)[ [Lecture 3/28](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f973bd55-8028-4e59-a8b9-afd4003e3822) | | | |
 |  [3-3 Python GeoPandas Join](https://classroom.github.com/a/VSnXZvpY) | 3/28 |  | 50 |
 |  [3-4 Python Rasterio](https://classroom.github.com/a/hRhGtxJM) | 3/30 | | 50 |
 |  **![docker](./media/docker-32.png) Module 4: Docker** |  |  |  |
