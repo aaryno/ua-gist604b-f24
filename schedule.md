@@ -41,7 +41,7 @@ This class is logically divided into units to be completed over a seven-week tim
 | ![zoom icon](./media/play-icon.png) Lecture 3/30 | | | |
 |  [4-0 Docker](https://classroom.github.com/a/StWSrqES) | 3/30 |  | 50 |
 |  **![postgis](./media/postgis-32.png) Module 5: PostGIS** |  |  |  |
-|  5-0 PostGIS Intro | 4/4 | | 50 |
+|  [5-0 PostGIS Intro](https://classroom.github.com/a/88FRVOsD) | 4/4 | | 50 |
 | ![zoom icon](./media/play-icon.png) Lecture 4/6 | | | |
 |  5-1 PostGIS OSM Load | 4/6 | | 50 |
 |  **![geoserver](./media/geoserver-32.png) Module 6: Geoserver** |  |  |  |
