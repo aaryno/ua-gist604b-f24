@@ -8,8 +8,9 @@ This class is logically divided into units to be completed over a seven-week tim
 - Last day of classes:  May 3, 2023
 
 ### Live lecture link: [Zoom](https://arizona.zoom.us/j/86790732262)
+[Zoom folder](https://arizona.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=cff2e7e1-917d-4d46-9609-afc5001924b7) (raw cloud recordings land here before they are edited and shared to this doc)
 
-### [Piazza](https://piazza.com/class/lf30l5i7eb755w)
+### Piazza link: [Piazza](https://piazza.com/class/lf30l5i7eb755w)
 
 |  **Name** | **Start Date** | **Due Date** | **Points** |
 | --- | --- | --- | ---  |
