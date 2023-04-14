@@ -47,12 +47,12 @@ This class is logically divided into units to be completed over a seven-week tim
 | ![zoom icon](./media/play-icon.png) [Lecture 4/6](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5a33db15-524d-4d8b-82f6-afdd004319cc) | | | |
 |  [5-1 PostGIS OSM Load](https://classroom.github.com/a/C138-sGF) | 4/6 | 4/13 | 50 |
 |  **![geoserver](./media/geoserver-32.png) Module 6: Geoserver** |  |  |  |
-| ![zoom icon](./media/play-icon.png) Lecture 4/11 | | | |
-|  [6-0 Geoserver Intro](https://classroom.github.com/a/4ZCOLo31) | 4/11 | | 50 |
-|  [6-1 Geoserver OSM I](https://classroom.github.com/a/_sk30DaM) | 4/13 | | 50 |
-|  [6-2 Geoserver OSM II](https://classroom.github.com/a/bG0RBYLh) | 4/19 | | 50 |
+| ![zoom icon](./media/play-icon.png) [Lecture 4/11](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2b982874-aa93-4a2f-aa64-afe20051615d) | | | |
+|  [6-0 Geoserver Intro](https://classroom.github.com/a/4ZCOLo31) | 4/11 | 4/18 | 50 |
+|  [6-1 Geoserver OSM I](https://classroom.github.com/a/_sk30DaM) | 4/13 | 4/20 | 50 |
+|  [6-2 Geoserver OSM II](https://classroom.github.com/a/bG0RBYLh) | 4/18 | 4/25 | 50 |
 |  **![leaflet](./media/leaflet-32.png) Module 7: WebGIS** |  |  |  |
-| ![zoom icon](./media/play-icon.png) Lecture 4/21 | | | |
+| ![zoom icon](./media/play-icon.png) Lecture 4/20 | | | |
 |  7-0 WebGIS - Leaflet I | 4/21 | | 50 |
 | ![zoom icon](./media/play-icon.png) Lecture 4/26 | | | |
 |  7-1 WebGIS - Leaflet II | 4/26 | | 50 |
