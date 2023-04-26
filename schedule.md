@@ -55,7 +55,7 @@ This class is logically divided into units to be completed over a seven-week tim
 | ![zoom icon](./media/play-icon.png) Lecture 4/20 | | | |
 |  [7-0 WebGIS - Leaflet I](https://classroom.github.com/a/Gz5nXZ73) | 4/21 | | 50 |
 | ![zoom icon](./media/play-icon.png) Lecture 4/26 | | | |
-|  7-1 WebGIS - Leaflet II | 4/26 | | 50 |
+|  [7-1 WebGIS - Flask+JQuery+Leaflet](https://classroom.github.com/a/1JK0y5n1) | 4/26 | | 50 |
 |  **![leaflet](./media/gdal-32.png) Module 8: GDAL/OGR** |  |  |  |
 | ![zoom icon](./media/play-icon.png) Lecture 4/28 | | | |
 |  8-0 GDAL/OGR - GDAL/OGR | 4/28 | | 50 |
