@@ -59,7 +59,7 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [8-0 WebGIS - Flask+JQuery+Leaflet](https://classroom.github.com/a/1JK0y5n1) | 4/26 | | 50 |
 |  **![leaflet](./media/gdal-32.png) Module 8: GDAL/OGR** |  |  |  |
 | ![zoom icon](./media/play-icon.png) Lecture 4/28 | | | |
-|  [9-0 GDAL](https://classroom.github.com/a/jTacaSaM) | 4/28 | | 50 |
+|  [9-0 GDAL](https://classroom.github.com/a/qdtlvTXF) | 4/28 | | 50 |
 |  **![guest](./media/question-32.png) Module 9: Mystery** |  |  |  |
 | ![zoom icon](./media/play-icon.png) Lecture 5/3 | | | |
 |  9-0 TBD | 5/3 | | 50 |
