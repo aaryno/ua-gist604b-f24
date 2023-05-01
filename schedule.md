@@ -62,7 +62,7 @@ This class is logically divided into units to be completed over a seven-week tim
 | ![zoom icon](./media/play-icon.png) [Lecture 4/28](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ce32438a-74d5-4f64-a5ab-aff2004c5693) | | | |
 |  [9-0 GDAL](https://classroom.github.com/a/qdtlvTXF) | 4/28 | | 50 |
 |  **![guest](./media/question-32.png) Module 9: Mystery** |  |  |  |
-| ![zoom icon](./media/play-icon.png) Lecture 5/3 | | | |
+| ![zoom icon](./media/play-icon.png) [Lecture 5/3](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f6ca1566-aefa-4702-91d8-aff5001a1a7e) | | | |
 |  [3-4 Python Rasterio Revisited!](https://classroom.github.com/a/hRhGtxJM) | 5/3 | | 50 |
 
 ## Official Dates
