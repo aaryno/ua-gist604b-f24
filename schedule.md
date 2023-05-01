@@ -49,16 +49,19 @@ This class is logically divided into units to be completed over a seven-week tim
 |  **![geoserver](./media/geoserver-32.png) Module 6: Geoserver** |  |  |  |
 | ![zoom icon](./media/play-icon.png) [Lecture 4/11](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2b982874-aa93-4a2f-aa64-afe20051615d) | | | |
 |  [6-0 Geoserver Intro](https://classroom.github.com/a/4ZCOLo31) | 4/11 | 4/18 | 50 |
+| ![zoom icon](./media/play-icon.png) [Lecture 4/13](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=feab3e0a-dd59-4d0e-9c70-afe400438ffa) | | | |
 |  [6-1 Geoserver OSM I](https://classroom.github.com/a/_sk30DaM) | 4/13 | 4/20 | 50 |
+| ![zoom icon](./media/play-icon.png) [Lecture 4/18](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d5699d5b-0bb3-4e75-879a-afe900415e86
+) | | | |
 |  [6-2 Geoserver OSM II](https://classroom.github.com/a/bG0RBYLh) | 4/18 | 4/25 | 50 |
 |  **![leaflet](./media/leaflet-32.png) Module 7: WebGIS** |  |  |  |
-| ![zoom icon](./media/play-icon.png) Lecture 4/20 | | | |
+| ![zoom icon](./media/play-icon.png) [Lecture 4/20](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fbae7eb2-7e89-47c5-917f-afeb00372d94) | | | |
 |  [7-0 WebGIS - Leaflet I](https://classroom.github.com/a/Gz5nXZ73) | 4/21 | | 50 |
-| ![zoom icon](./media/play-icon.png) Lecture 4/26 | | | |
+| ![zoom icon](./media/play-icon.png) [Lecture 4/26](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=768232fd-5f76-4fa9-95c6-aff00058e3ef) | | | |
 |  **![leaflet](./media/leaflet-32.png) Module 8: WebGIS with Flask** |  |  |  |
 |  [8-0 WebGIS - Flask+JQuery+Leaflet](https://classroom.github.com/a/1JK0y5n1) | 4/26 | | 50 |
 |  **![leaflet](./media/gdal-32.png) Module 8: GDAL/OGR** |  |  |  |
-| ![zoom icon](./media/play-icon.png) Lecture 4/28 | | | |
+| ![zoom icon](./media/play-icon.png) [Lecture 4/28](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ce32438a-74d5-4f64-a5ab-aff2004c5693) | | | |
 |  [9-0 GDAL](https://classroom.github.com/a/qdtlvTXF) | 4/28 | | 50 |
 |  **![guest](./media/question-32.png) Module 9: Mystery** |  |  |  |
 | ![zoom icon](./media/play-icon.png) Lecture 5/3 | | | |
