@@ -37,7 +37,6 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [3-2 Python GeoPandas Intro](https://classroom.github.com/a/bnnz6IYQ) | 3/23 | 4/11 | 50 |
 | ![zoom icon](./media/play-icon.png) _[Lecture 3/28](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f973bd55-8028-4e59-a8b9-afd4003e3822)_ | | | |
 |  [3-3 Python GeoPandas Join](https://classroom.github.com/a/VSnXZvpY) | 3/28 | 4/11 | 50 |
-|  3-4 Python Rasterio (_not yet assigned_) |  | | 50 |
 |  **![docker](./media/docker-32.png) Module 4: Docker** |  |  |  |
 | ![zoom icon](./media/play-icon.png) _[Lecture 3/30](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3452bbd2-6bc9-4c72-a9c7-afd600467e9d)_ | | | |
 |  [4-0 Docker](https://classroom.github.com/a/StWSrqES) | 3/30 | 4/11 | 50 |
@@ -51,8 +50,7 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [6-0 Geoserver Intro](https://classroom.github.com/a/4ZCOLo31) | 4/11 | 4/18 | 50 |
 | ![zoom icon](./media/play-icon.png) [Lecture 4/13](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=feab3e0a-dd59-4d0e-9c70-afe400438ffa) | | | |
 |  [6-1 Geoserver OSM I](https://classroom.github.com/a/_sk30DaM) | 4/13 | 4/20 | 50 |
-| ![zoom icon](./media/play-icon.png) [Lecture 4/18](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d5699d5b-0bb3-4e75-879a-afe900415e86
-) | | | |
+| ![zoom icon](./media/play-icon.png) [Lecture 4/18](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d5699d5b-0bb3-4e75-879a-afe900415e86) | | | |
 |  [6-2 Geoserver OSM II](https://classroom.github.com/a/bG0RBYLh) | 4/18 | 4/25 | 50 |
 |  **![leaflet](./media/leaflet-32.png) Module 7: WebGIS** |  |  |  |
 | ![zoom icon](./media/play-icon.png) [Lecture 4/20](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fbae7eb2-7e89-47c5-917f-afeb00372d94) | | | |
@@ -65,7 +63,7 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [9-0 GDAL](https://classroom.github.com/a/qdtlvTXF) | 4/28 | | 50 |
 |  **![guest](./media/question-32.png) Module 9: Mystery** |  |  |  |
 | ![zoom icon](./media/play-icon.png) Lecture 5/3 | | | |
-|  9-0 TBD | 5/3 | | 50 |
+|  [3-4 Python Rasterio Revisited!](https://classroom.github.com/a/hRhGtxJM) | 5/3 | | 50 |
 
 ## Official Dates
 See https://www.registrar.arizona.edu/dates-and-deadlines
